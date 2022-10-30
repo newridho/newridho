@@ -6,15 +6,15 @@
 
 ## 🙋‍♂️ About Me
 
-- 🌱 I’m currently learning **Back End Programming.**
+- 🌱 I’m currently learning **Front End Programming.**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects.**
 
-- 👨‍💻 This repository is only for hacktoberfest, any code that has been stolen by others isn't the responsibility of the repo owner.
+<!-- 👨‍💻 This repository is only for hacktoberfest, any code that has been stolen by others isn't the responsibility of the repo owner. -->
 
 - 📫 How to reach me **newridho1298@gmail.com**
 
-- ⚡ I love playing strategy games, and watching intelligence anime.
+- ⚡ I love playing chill games, read books or manga and watching intelligence anime.
 
 <br/>
 
