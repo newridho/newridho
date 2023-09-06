@@ -26,12 +26,6 @@
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
-
-<br/>
-<br/>
-
-<a href="https://github.com/newridho/github-readme-activity-graph"><img alt="newRidho's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=newRidho&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
 <br/>
 <br/>
 
@@ -42,5 +36,3 @@
 <a href = "https://www.instagram.com/ridho_adilor/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 
 </p>
-
-<a href="https://github.com/newridho?tab=followers"><img src="https://img.shields.io/github/followers/newridho?label=Followers&style=social" alt="GitHub Badge"></a>
