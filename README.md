@@ -33,6 +33,6 @@
 <p align="left">
 
 <a href = "https://www.facebook.com/RidhoooArdiansyah"><img src="https://img.icons8.com/fluent/48/000000/facebook-new.png"/></a>
-<a href = "https://www.instagram.com/ridho_adilor/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://www.instagram.com/ridholess/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 
 </p>
